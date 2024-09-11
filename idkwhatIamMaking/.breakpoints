@@ -1,0 +1,20 @@
+{
+  "files": {
+    "src/commands/prefix/moderations/unlock.js": [
+      {
+        "id": "1041b1fc-7464-413f-9e4a-732a6e20ec48",
+        "line": 9,
+        "version": 1,
+        "index": 263
+      }
+    ],
+    "src/utils/ticketUtils.js": [
+      {
+        "id": "1fbd253f-518d-4fc3-bd12-1e5af62f20a9",
+        "line": 1,
+        "version": 27,
+        "index": 0
+      }
+    ]
+  }
+}
