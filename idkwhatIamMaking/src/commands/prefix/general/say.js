@@ -8,7 +8,6 @@ module.exports = {
     const echoMessage = args.join(" ");
     await message.delete();
 
-    // Send the echo message
     message.channel.send(echoMessage);
   },
 };
